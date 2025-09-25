@@ -1,5 +1,14 @@
 # 📊 Superstore Sales Dashboard (Google Sheets)
 
+## 📊 Dashboard Preview
+
+Here’s a snapshot of the dashboard:
+
+![Dashboard](dashboard.png)
+
+You can also download and explore the interactive dashboard here:  
+[📂 Superstore Sales Dashboard (Excel)](Superstore_Sales_Dashboard.xlsx)
+
 ## 📌 Overview
 This project demonstrates how to build a **Sales Dashboard** in **Google Sheets** using the *Superstore Sales Dataset* from Kaggle.  
 The goal is to practice **data analysis, pivot tables, and visualization** while showcasing insights that can help a business understand performance by region, category, and over time.  
