@@ -45,7 +45,7 @@ The goal is to practice **data analysis, pivot tables, and visualization** while
 
 ## 📈 Dashboard Preview
 ![Dashboard Screenshot](images/dashboard.png)  
-*(Replace with your actual screenshot once uploaded)*  
+  
 
 ---
 
@@ -64,11 +64,5 @@ The goal is to practice **data analysis, pivot tables, and visualization** while
 
 ---
 
-## 🚀 Next Steps
-- Rebuild the same dashboard in **SQL** for querying practice.  
-- Create an **interactive version** using **Tableau** or **Power BI**.  
-- Expand analysis to include profitability if profit data is available.  
-
----
 
 💡 *This project is part of my data analytics portfolio. Feedback and suggestions are always welcome!*  
